@@ -1,0 +1,26 @@
+ body{background-color: rgb(156, 223, 240);}
+ h1{font-size: 28px;}
+ h2{font-size: 28px;}
+ h3{font-size: 28px;}
+
+
+header{
+    background-color: rgb(82, 97, 192);
+    height: 100px;
+    #HawaiiTitle{
+        font-size: 40px;
+        text-align: center;
+        ;
+        
+    }
+}
+
+
+
+img{
+    border: 3px rgb(0, 0, 0);
+    border-radius: 10px;
+    border-style: groove;
+    padding: 5px;
+
+}
